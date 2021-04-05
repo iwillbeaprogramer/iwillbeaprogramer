@@ -23,12 +23,19 @@ Here are some ideas to get you started:
 <h3>I am a programmer who is interested in Machine Learning and Deep Learning.</h3><br>
 <h3>I am especially interested in Image Translation and Denoising with Deep Learning.</h3><br>
 <h3>Also, I am interested in web and applications using Flutter and Django.</h3><br><br>
+## Interest
+- Data Analysis
+- Machine Learning
+- Deep Learning
+- Image Processing (Translation and Generating)
+- Plutter Application Development
 
 ## Stack
 
 - C++
 - Python
 - Matlab
+- Flutter (Not yet)
 ## Project List
 - Denoising Mosaic
 - A third-place winner : LH Corporate Urban Problem Solving Challenges(Anyang - Selection of IoT Sensor Installation Location for Urban Data Collection)
