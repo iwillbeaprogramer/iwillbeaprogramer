@@ -29,5 +29,9 @@ Here are some ideas to get you started:
 - C++
 - Python
 
+## Project List
+<h5>- Denoising Mosaic</h5><br>
+<h5>- LH Corporate Urban Problem Solving Challenges(Anyang - Selection of IoT Sensor Installation Location for Urban Data Collection)<h5><br>
+
 
 
