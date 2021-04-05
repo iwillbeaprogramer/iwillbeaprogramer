@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - Matlab
 ## Project List
 - Denoising Mosaic
-- LH Corporate Urban Problem Solving Challenges(Anyang - Selection of IoT Sensor Installation Location for Urban Data Collection)
+- <h5>A third-place winner</h5> : LH Corporate Urban Problem Solving Challenges(Anyang - Selection of IoT Sensor Installation Location for Urban Data Collection)
 - Similar-Poketmon-Recommandation
 - Cosmetics Recommended Chatbot
 - Implementation of Kalman Filter using Deep Learning
