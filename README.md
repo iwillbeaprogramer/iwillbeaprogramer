@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <h3>I am open to any communication, so if you want, please send a email.</h3>
-<h3>E-mail : wisixicidi@gmail.com</h3><br>
+<h3>E-mail : wisixicidi@khu.ac.kr</h3><br>
 <h3>I am a programmer who is interested in Machine Learning and Deep Learning.</h3><br>
 <h3>I am especially interested in Image Translation and Denoising with Deep Learning.</h3><br>
 <h3>Also, I am interested in web and applications using Flutter and Django.</h3><br><br>
