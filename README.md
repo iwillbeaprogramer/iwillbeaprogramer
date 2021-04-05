@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ## Project List
 <h5>- Denoising Mosaic</h5><br>
 <h5>- LH Corporate Urban Problem Solving Challenges(Anyang - Selection of IoT Sensor Installation Location for Urban Data Collection)<h5><br>
-
+<h5>Similar-Poketmon-Recommandation</h5><br>
+<h5>Cosmetics Recommended Chatbot</h5><br>
+<h5>Implementation of Kalman Filter using Deep Learning</h5><br>
 
 
