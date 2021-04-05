@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 - Machine Learning
 - Deep Learning
 - Image Processing (Translation and Generating)
+- Computer Vision
 - Plutter Application Development
 
 ## Stack
