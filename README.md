@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 - Flutter (Not yet)
 ## Project List
 - Denoising Mosaic
+- Kaggle : Excellent grades at tabular-playground-series-apr-2021 (7th)
 - A third-place winner : LH Corporate Urban Problem Solving Challenges(Anyang - Selection of IoT Sensor Installation Location for Urban Data Collection)
 - Similar-Poketmon-Recommandation
 - Cosmetics Recommended Chatbot
