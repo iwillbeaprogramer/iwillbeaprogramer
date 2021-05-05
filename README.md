@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - Deep Learning
 - Image Processing (Translation and Generating)
 - Computer Vision
-- Plutter Application Development
+- Flutter Application Development
 
 # Stack
 
