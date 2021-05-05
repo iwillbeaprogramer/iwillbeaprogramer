@@ -42,5 +42,6 @@ Here are some ideas to get you started:
 - Kaggle : Excellent grades at tabular-playground-series-apr-2021 (7th)
 - A third-place winner : LH Corporate Urban Problem Solving Challenges(Anyang - Selection of IoT Sensor Installation Location for Urban Data Collection)
 - Implementation of Kalman Filter using Deep Learning
+- Participating in various competitions hosted by Daycon.
 
 
