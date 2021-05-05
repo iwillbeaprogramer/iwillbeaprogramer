@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 
 # Project List
 - Denoising Mosaic
+- https://user-images.githubusercontent.com/70966332/117117183-36d72300-adca-11eb-911d-344d95fe4cbd.png
 - Kaggle : Excellent grades at tabular-playground-series-apr-2021 (7th)
 - A third-place winner : LH Corporate Urban Problem Solving Challenges(Anyang - Selection of IoT Sensor Installation Location for Urban Data Collection)
 - Implementation of Kalman Filter using Deep Learning (graduation thesis)
