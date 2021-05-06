@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ## I majored in mathematics and electronic engineering.
 ## I am open to any communication, so if you want, please send a email.<br>
 ## E-mail : wisixicidi@khu.ac.kr<br>
+## Blog : https://suhyun72.tistory.com/
 ## I am a programmer who is interested in Machine Learning and Deep Learning.<br>
 ## I am especially interested in Image Translation and Denoising with Deep Learning.<br>
 ## Also, I am interested in web and applications using Flutter and Django.<br><br><br>
