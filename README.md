@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiwillbeaprogramer&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### I majored in mathematics and electronic engineering.
-### I am open to any communication, so if you want, please send a email.<br>
+<h4> I majored in mathematics and electronic engineering.</h4>
+<h4> I am open to any communication, so if you want, please send a email.</h4><br>
 ### E-mail : wisixicidi@khu.ac.kr<br>
 ### I'm running a blog that's been sorting out my Python knowledge step by step.<br>
 ### Blog : https://suhyun72.tistory.com/ <br>
