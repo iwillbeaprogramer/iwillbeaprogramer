@@ -48,8 +48,11 @@ Here are some ideas to get you started:
 ![캐글캡처](https://user-images.githubusercontent.com/70966332/117254239-233bc300-ae83-11eb-9cef-f4947cd0970f.PNG)
 - ### A third-place winner : LH Corporate Urban Problem Solving Challenges(Anyang - Selection of IoT Sensor Installation Location for Urban Data Collection)
 - ![LH3등](https://user-images.githubusercontent.com/70966332/117117194-38a0e680-adca-11eb-8414-15bc2a3498cd.jpg)
+- ![LH상장](https://user-images.githubusercontent.com/70966332/117336849-9ff88c80-aed7-11eb-94d1-cccb5b075bd4.jpg)
 - ### Implementation of Kalman Filter using Deep Learning (graduation thesis)
 - ![졸논](https://user-images.githubusercontent.com/70966332/117117190-38085000-adca-11eb-96b5-1c2468002c1e.png)
+- ### 해커톤 적어야해
+- ![해커톤 상장](https://user-images.githubusercontent.com/70966332/117336856-a129b980-aed7-11eb-8d9b-8e4b729884a1.jpg)
 - ### Participating in various competitions hosted by Daycon.
 - ![데이콘](https://user-images.githubusercontent.com/70966332/117117192-38085000-adca-11eb-8cbc-45ec7125e29e.PNG)
 
