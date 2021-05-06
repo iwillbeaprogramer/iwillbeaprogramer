@@ -55,5 +55,5 @@ Here are some ideas to get you started:
  ![해커톤 상장](https://user-images.githubusercontent.com/70966332/117336856-a129b980-aed7-11eb-8d9b-8e4b729884a1.jpg)
 - ### Participating in various competitions hosted by Daycon.
  ![데이콘](https://user-images.githubusercontent.com/70966332/117117192-38085000-adca-11eb-8cbc-45ec7125e29e.PNG)
-
+- ### Have Tensorflow Certificate.
 
