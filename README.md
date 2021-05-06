@@ -56,4 +56,5 @@ Here are some ideas to get you started:
 - ### Participating in various competitions hosted by Daycon.
  ![데이콘](https://user-images.githubusercontent.com/70966332/117117192-38085000-adca-11eb-8cbc-45ec7125e29e.PNG)
 - ### Have Tensorflow Certificate.
+ ![텐서플로우 자격증](https://user-images.githubusercontent.com/70966332/117338599-b9023d00-aed9-11eb-84bb-53a2eaec46a6.png)
 
