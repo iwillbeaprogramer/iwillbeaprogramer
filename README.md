@@ -50,14 +50,15 @@ Here are some ideas to get you started:
 - ### Kaggle : Excellent grades at tabular-playground-series-apr-2021 (7th place)
 <image src = https://user-images.githubusercontent.com/70966332/117254239-233bc300-ae83-11eb-9cef-f4947cd0970f.PNG height = "500" width = "750">
 - ### A third-place winner : LH Corporate Urban Problem Solving Challenges(Anyang - Selection of IoT Sensor Installation Location for Urban Data Collection)
- ![LH3등](https://user-images.githubusercontent.com/70966332/117117194-38a0e680-adca-11eb-8414-15bc2a3498cd.jpg)
- ![LH상장](https://user-images.githubusercontent.com/70966332/117572931-2d262600-b110-11eb-86fa-6907c7bdbdda.jpg)
+- 
+![LH3등](https://user-images.githubusercontent.com/70966332/117117194-38a0e680-adca-11eb-8414-15bc2a3498cd.jpg)
+![LH상장](https://user-images.githubusercontent.com/70966332/117572931-2d262600-b110-11eb-86fa-6907c7bdbdda.jpg)
 - ### Implementation of Kalman Filter using Deep Learning (graduation thesis)
- ![졸논](https://user-images.githubusercontent.com/70966332/117117190-38085000-adca-11eb-96b5-1c2468002c1e.png)
+![졸논](https://user-images.githubusercontent.com/70966332/117117190-38085000-adca-11eb-96b5-1c2468002c1e.png)
 - ### KyungHee University's Software Convergence University Hackathon Award(Similar Poketmon Detection).
- ![해커톤 상장](https://user-images.githubusercontent.com/70966332/117572930-2bf4f900-b110-11eb-9ff4-2f9f0812ed7d.jpg)
+![해커톤 상장](https://user-images.githubusercontent.com/70966332/117572930-2bf4f900-b110-11eb-9ff4-2f9f0812ed7d.jpg)
 - ### Participating in various competitions hosted by Daycon.
- ![데이콘](https://user-images.githubusercontent.com/70966332/117117192-38085000-adca-11eb-8cbc-45ec7125e29e.PNG)
+![데이콘](https://user-images.githubusercontent.com/70966332/117117192-38085000-adca-11eb-8cbc-45ec7125e29e.PNG)
 - ### Have Tensorflow Certificate.
- ![텐서플로우 자격증](https://user-images.githubusercontent.com/70966332/117338599-b9023d00-aed9-11eb-84bb-53a2eaec46a6.png)
+![텐서플로우 자격증](https://user-images.githubusercontent.com/70966332/117338599-b9023d00-aed9-11eb-84bb-53a2eaec46a6.png)
 
