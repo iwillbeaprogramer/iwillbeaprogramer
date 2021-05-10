@@ -1,5 +1,4 @@
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iwillbeaprogramer)](https://github.com/iwillbeaprogramer/github-readme-stats)
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iwillbeaprogramer&show_icons=true&theme=dark)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iwillbeaprogramer&show_icons=true&theme=dark)
 
 출처: https://ndb796.tistory.com/512 [안경잡이개발자]
 ### Hi I'm Deep Learning Engineer 👋
