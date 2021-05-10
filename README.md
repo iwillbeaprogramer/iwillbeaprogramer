@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 # Stack
 
 - C++
-- Python
+- Python(Numpy, Pandas, Matplotlib, Scikit-learn,Tensorflow1~2,Keras,Django,bs4,Selenium,openCV,mecab,konlpy)
 - Matlab
 - Flutter (Not yet)
 
