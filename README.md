@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 - ### Denoising Mosaic
 ![모자이크](https://user-images.githubusercontent.com/70966332/117117563-a6e5a900-adca-11eb-9059-4365ef591397.png)
 - ### Kaggle : Excellent grades at tabular-playground-series-apr-2021 (7th place)
-![캐글캡처](https://user-images.githubusercontent.com/70966332/117254239-233bc300-ae83-11eb-9cef-f4947cd0970f.PNG)
+![캐글캡처](https://user-images.githubusercontent.com/70966332/117254239-233bc300-ae83-11eb-9cef-f4947cd0970f.PNG height = "50" width = "50")
 - ### A third-place winner : LH Corporate Urban Problem Solving Challenges(Anyang - Selection of IoT Sensor Installation Location for Urban Data Collection)
  ![LH3등](https://user-images.githubusercontent.com/70966332/117117194-38a0e680-adca-11eb-8414-15bc2a3498cd.jpg)
  ![LH상장](https://user-images.githubusercontent.com/70966332/117572931-2d262600-b110-11eb-86fa-6907c7bdbdda.jpg)
