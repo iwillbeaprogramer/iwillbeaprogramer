@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - Python(Numpy, Pandas, Matplotlib, Scikit-learn,Tensorflow1~2,Keras,Django,bs4,Selenium,openCV,mecab,konlpy)
 - Matlab
 - Flutter (Not yet)
-
+https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/30937806
 
 # Project, Licens, Award ...
 - ### Denoising Mosaic
