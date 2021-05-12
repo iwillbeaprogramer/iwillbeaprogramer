@@ -49,7 +49,6 @@ Here are some ideas to get you started:
 
 - ### Kaggle : Excellent grades at tabular-playground-series-apr-2021 (7th place)
 <image src = https://user-images.githubusercontent.com/70966332/117254239-233bc300-ae83-11eb-9cef-f4947cd0970f.PNG height = "500" width = "750">
-- ### https://www.kaggle.com/kimsuhyun72
 - ### A third-place winner : LH Corporate Urban Problem Solving Challenges(Anyang - Selection of IoT Sensor Installation Location for Urban Data Collection)
 ![LH3등](https://user-images.githubusercontent.com/70966332/117117194-38a0e680-adca-11eb-8414-15bc2a3498cd.jpg)
 ![LH상장](https://user-images.githubusercontent.com/70966332/117572931-2d262600-b110-11eb-86fa-6907c7bdbdda.jpg)
