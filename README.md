@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 - ### KyungHee University's Software Convergence University Hackathon Award(Similar Poketmon Detection).
 ![해커톤 상장](https://user-images.githubusercontent.com/70966332/117572930-2bf4f900-b110-11eb-9ff4-2f9f0812ed7d.jpg)
 - ### Participating in various competitions hosted by Daycon.
+- ### https://dacon.io/myprofile/415351/home/
 ![데이콘](https://user-images.githubusercontent.com/70966332/117117192-38085000-adca-11eb-8cbc-45ec7125e29e.PNG)
 - ### Have Tensorflow Certificate.
 ![텐서플로우 자격증](https://user-images.githubusercontent.com/70966332/117338599-b9023d00-aed9-11eb-84bb-53a2eaec46a6.png)
