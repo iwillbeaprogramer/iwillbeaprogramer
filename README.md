@@ -38,30 +38,40 @@ Here are some ideas to get you started:
 # Stack
 
 - C++
-- Python(Numpy, Pandas, Matplotlib, Scikit-learn,Tensorflow1~2,Keras,Django,bs4,Selenium,openCV,mecab,konlpy)
+- Python(Numpy, Pandas, Matplotlib, Scikit-learn,Tensorflow1~2,Keras,Pytorch,Django,bs4,Selenium,openCV,mecab,konlpy)
 - Matlab
 - Flutter (Not yet)
+
+# Available technologies
+
+- GAN (Pix2pix , StyleGAN, Style Transfer, Deep Photo Style Transfer, White - box - Cartoonize, Ganilla)
+- Transition Learning (Resnet, EfficientNet, MobileNet, DenseNet)
+- Analysis Time Series Data
+
 
 
 # Project, Licens, Award ...
 - ### Photo to Cartoon Project
-- ##### White - Box - Cartoonize GAN (customizing with tensorflow 2.4.1)
+- ##### Method : White - Box - Cartoonize GAN (customizing with tensorflow 2.4.1)
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/70966332/119854425-05c2bc00-bf4c-11eb-9031-34fb3c190bc9.gif)
 - ### Denoising Mosaic
-- ##### Auto Encoder
+- ##### Method : Auto Encoder
 ![모자이크](https://user-images.githubusercontent.com/70966332/117667300-bb1d1200-b1df-11eb-98f4-f627c5970bfb.png)
 
 - ### Kaggle : Excellent grades at tabular-playground-series-apr-2021 (7th place)
-- ##### voting method with xgbm,lgbm,catboost
+- ##### Method : voting method with xgbm,lgbm,catboost
 - ### https://www.kaggle.com/kimsuhyun72
 <image src = https://user-images.githubusercontent.com/70966332/117254239-233bc300-ae83-11eb-9cef-f4947cd0970f.PNG height = "500" width = "750">
   
 - ### A third-place winner : LH Corporate Urban Problem Solving Challenges(Anyang - Selection of IoT Sensor Installation Location for Urban Data Collection)
+- ##### Method : K-Means,Geopandas,Google map API
 ![LH3등](https://user-images.githubusercontent.com/70966332/117117194-38a0e680-adca-11eb-8414-15bc2a3498cd.jpg)
 ![LH상장](https://user-images.githubusercontent.com/70966332/117572931-2d262600-b110-11eb-86fa-6907c7bdbdda.jpg)
 - ### Implementation of Kalman Filter using Deep Learning (graduation thesis)
+- ##### Method : Kalman Filter and Fully Connected Layer
 ![졸논](https://user-images.githubusercontent.com/70966332/117117190-38085000-adca-11eb-96b5-1c2468002c1e.png)
 - ### KyungHee University's Software Convergence University Hackathon Award(Similar Poketmon Detection).
+- ##### Simple Convolution Network
 ![해커톤 상장](https://user-images.githubusercontent.com/70966332/117572930-2bf4f900-b110-11eb-9ff4-2f9f0812ed7d.jpg)
 - ### Participating in various competitions hosted by Daycon.
 - ### https://dacon.io/myprofile/415351/home/
