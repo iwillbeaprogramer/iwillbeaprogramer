@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 # Available technologies
 
-- GAN (Pix2pix , StyleGAN, Style Transfer, Deep Photo Style Transfer, White - box - Cartoonize, Ganilla)
+- GAN (Super Resolution , Pix2pix , StyleGAN, Style Transfer, Deep Photo Style Transfer, White - box - Cartoonize, Ganilla)
 - Transition Learning (Resnet, EfficientNet, MobileNet, DenseNet)
 - Analysis Time Series Data
 
