@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 
 
-# Project, Licens, Award ...
+# Project, License, Award ...
 - ### Photo to Cartoon Project
 - ##### Method : White - Box - Cartoonize GAN (customizing with tensorflow 2.4.1)
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/70966332/119854425-05c2bc00-bf4c-11eb-9031-34fb3c190bc9.gif)
