@@ -51,9 +51,14 @@ Here are some ideas to get you started:
 
 
 # Project, License, Award ...
-- ### Photo to Cartoon Project
+- ### Photo to Cartoon with SuperResolution
 - ##### Method : White - Box - Cartoonize GAN (customizing with tensorflow 2.4.1)
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/70966332/119854425-05c2bc00-bf4c-11eb-9031-34fb3c190bc9.gif)
+- ### Cartoon(320,180) to Cartoon(720,1280) SuperResolution
+- ##### Method : White - Box - Cartoonize GAN (customizing with tensorflow 2.4.1)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/70966332/119935404-6bea2600-bfc2-11eb-9c54-03eb2f53e74c.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/70966332/119935417-71477080-bfc2-11eb-97a6-bb86e47b762f.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/70966332/119935426-73113400-bfc2-11eb-9592-ae960a499606.gif)
 - ### Denoising Mosaic
 - ##### Method : Auto Encoder
 ![모자이크](https://user-images.githubusercontent.com/70966332/117667300-bb1d1200-b1df-11eb-98f4-f627c5970bfb.png)
