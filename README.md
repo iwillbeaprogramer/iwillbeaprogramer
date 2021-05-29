@@ -36,17 +36,18 @@ Here are some ideas to get you started:
 - Flutter Application Development
 
 # Stack
-
 - C++
 - Python(Numpy, Pandas, Matplotlib, Scikit-learn,Tensorflow1~2,Keras,Pytorch,Django,bs4,Selenium,openCV,mecab,konlpy)
 - Matlab
 - Flutter (Not yet)
 
+
+
 # Available technologies
 
 - GAN (Super Resolution , Pix2pix , StyleGAN, Style Transfer, Deep Photo Style Transfer, White - box - Cartoonize, Ganilla)
 - Transition Learning (Resnet, EfficientNet, MobileNet, DenseNet)
-- Analysis Time Series Data
+- Analysis Time Series  Data
 
 
 
