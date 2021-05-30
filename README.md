@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - C++
 - Python(Numpy, Pandas, Matplotlib, Scikit-learn,Tensorflow1~2,Keras,Pytorch,Django,bs4,Selenium,openCV,mecab,konlpy)
 - Matlab
-- Flutter (Not yet)
+- Flutter(Not yet)
 
 
 
