@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 #### I majored in applied mathematics and electronic engineering at KyungHee University.<br>
 #### I am open to any communication, so if you want, please send a email.<br>
-#### E-mail : wisixicidi@khu.ac.kr<br>
+#### E-mail  :  wisixicidi@khu.ac.kr<br>
 #### I'm running a blog that's been sorting out my Python knowledge step by step.<br>
 #### Blog : https://suhyun72.tistory.com/ <br>
 #### I am a programmer who is interested in Machine Learning and Deep Learning.<br>
