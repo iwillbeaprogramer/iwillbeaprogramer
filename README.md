@@ -28,12 +28,12 @@ Here are some ideas to get you started:
 #### I am especially interested in Image Translation and Denoising with Deep Learning.<br>
 #### Also, I am interested in web and applications using Flutter and Django.<br><br><br>
 # Interest
-- Data Analysis
-- Machine Learning
-- Deep Learning
-- Image Processing (Translation and Generating)
-- Computer Vision
-- Flutter Application Development
+- Data  Analysis
+- Machine  Learning
+- Deep  Learning
+- Image  Processing (Translation and Generating)
+- Computer  Vision
+- Flutter  Application Development
 
 # Stack
 - C++
