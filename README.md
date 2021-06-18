@@ -55,6 +55,9 @@ Here are some ideas to get you started:
 - ### Photo to Cartoon with SuperResolution
 - ##### Method : White - Box - Cartoonize GAN (customizing with tensorflow 2.4.1)
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/70966332/119854425-05c2bc00-bf4c-11eb-9031-34fb3c190bc9.gif)
+- ### Photo to Cartoon with SuperResolution
+- ##### Method : GANILLA (Pytorch)
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/70966332/122502689-12f63680-d032-11eb-9bed-1f99bb271cfc.gif)
 - ### Cartoon(180,320) to Cartoon(720,1280) SuperResolution
 - ##### Method : SuperResolution
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/70966332/119935426-73113400-bfc2-11eb-9592-ae960a499606.gif)
