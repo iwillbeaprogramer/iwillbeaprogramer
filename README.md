@@ -58,6 +58,8 @@ Here are some ideas to get you started:
 - ### Photo to Cartoon with SuperResolution
 - ##### Method : GANILLA (Pytorch)
 ![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/70966332/122503122-da0a9180-d032-11eb-9bc4-d486b4d73f56.gif)
+![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/70966332/122525080-d3404680-d053-11eb-9beb-7caaa9e2d321.gif)
+
 - ### Cartoon(180,320) to Cartoon(720,1280) SuperResolution
 - ##### Method : SuperResolution
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/70966332/119935426-73113400-bfc2-11eb-9592-ae960a499606.gif)
